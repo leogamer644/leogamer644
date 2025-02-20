@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <h2 align="center">Hi 👋! My name is Leo</h2>
 
 ###
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fmw73ngnycu42kqox32f3knlk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
+<div align="left">
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fmw73ngnycu42kqox32f3knlk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 ###
 
 <div align="left">
