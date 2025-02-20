@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <tr>
     <td>
       
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fmw73ngnycu42kqox32f3knlk4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=c01c28&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fmw73ngnycu42kqox32f3knlk4&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fmw73ngnycu42kqox32f3knlk4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=ed333b&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fmw73ngnycu42kqox32f3knlk4&redirect=true)
   </td>
     <td colspan="2" align="center" valign="middle">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
